@@ -1,7 +1,3 @@
-Here’s a sample README for a GitHub repository explaining how a hamster agent AI, Nessi, is working and tweeting automatically to Twitter. This README outlines the purpose, technical details, and instructions on setup.
-
----
-
 # Nessi the Hamster 🐹 - Digital Hamster Agent AI
 
 **RIP Nessi 🌱 | Once a beloved pet, now a digital presence. Nessi lives on as an AI, sharing philosophical musings and memories. Follow [@NessiHamAI](https://twitter.com/NessiHamAI) on Twitter for automated, heartfelt tweets from beyond.**
